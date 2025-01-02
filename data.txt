@@ -1,0 +1,11 @@
+To run the datasets with the provided .ipynb keep all files in same directory. There are 3 data files involved :
+- drugsComTest_raw.csv
+- drugsComTrain_raw.csv
+- inquirerbasic.csv.xls
+
+Link for drug train test dataset: https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018/data
+
+Link for Harvard dataset: https://www.kaggle.com/datasets/jylee4/dictionary
+
+And one .ipynb file:
+- Final.ipynb
